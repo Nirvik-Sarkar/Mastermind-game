@@ -9,6 +9,12 @@ Year:- 1st
 Batch:- 2020-2024
 Department:- IT
 E-mail:- nirviksarkar039@gmail.com
+Name:-  Garima Dubey
+Reg no. :- 18700220064
+Year:- 1st 
+Batch:- 2020-2024
+Department:- IT
+E-mail:- garima.dubeysd@gmail.com
 
 Overview:-
 Given the present generation’s acquaintance with gaming and its highly demanded technology, many aspire to pursue the idea of developing and advancing it further. Eventually, everyone starts at the beginning. Mastermind is an old code-breaking game played by two players. The game goes back to the 19th century and can be played with paper and pencil.
